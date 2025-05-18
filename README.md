@@ -12,3 +12,6 @@ GitHub
 5. Persistent Storage: Tasks are saved in the browser's local storage, ensuring they remain even after refreshing or closing the browser.
 
 6. Responsive Design: Optimized for desktops, tablets, and mobile devices.
+
+
+Author : Himanshu Kumar
