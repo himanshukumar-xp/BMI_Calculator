@@ -1,17 +1,32 @@
-A simple, responsive, and user-friendly To-Do List application built using HTML, CSS, and JavaScript. This app allows users to manage their daily tasks efficiently with features like adding, editing, deleting, and marking tasks as completed.
-GitHub
- Features
-1. Add Tasks: Quickly add new tasks to your list.
+# 🧮 BMI Calculator
 
-2. Edit Tasks: Modify existing tasks to keep them up-to-date.
+A simple Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript. Enter your height and weight to instantly calculate your BMI and get categorized results (Underweight, Normal, Overweight, or Obese).
 
-3. Delete Tasks: Remove tasks that are no longer needed.
+## ✨ Features
 
-4. Mark as Completed: Check off tasks once they're done.
+- User-friendly interface
+- Instant BMI calculation
+- Categorized results with color indicators
+- Responsive design for all devices
+- Clean and minimal design
 
-5. Persistent Storage: Tasks are saved in the browser's local storage, ensuring they remain even after refreshing or closing the browser.
+## 🚀 Live Demo
 
-6. Responsive Design: Optimized for desktops, tablets, and mobile devices.
+[Check it out here](#) <!-- Replace with your GitHub Pages or live URL -->
+
+## 📸 Screenshot
+
+![BMI Calculator Screenshot](screenshot.png) <!-- Replace with actual image or remove this section -->
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📂 Project Structure
+
+
 
 
 Author : Himanshu Kumar
