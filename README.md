@@ -22,7 +22,7 @@ A simple Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 📂 Project Structure
 
