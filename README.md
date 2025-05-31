@@ -10,14 +10,6 @@ A simple Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript.
 - Responsive design for all devices
 - Clean and minimal design
 
-## 🚀 Live Demo
-
-[Check it out here](#) <!-- Replace with your GitHub Pages or live URL -->
-
-## 📸 Screenshot
-
-![BMI Calculator Screenshot](screenshot.png) <!-- Replace with actual image or remove this section -->
-
 ## 🛠️ Technologies Used
 
 - HTML5
