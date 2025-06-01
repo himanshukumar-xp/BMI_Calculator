@@ -16,9 +16,4 @@ A simple Body Mass Index (BMI) calculator built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript 
 
-## 📂 Project Structure
-
-
-
-
 Author : Himanshu Kumar
